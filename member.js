@@ -1,7 +1,3 @@
 function skillMember() {
-    return {
-        name: "skillMember",
-        type: "member",
-        value: "skillMember"
-    }
-} 
+  console.log('I am a member of the skill team.')
+}
